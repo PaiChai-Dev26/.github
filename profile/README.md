@@ -269,3 +269,15 @@ Explore → Define → Plan → Build → Test → Present → Review
 <sub>Last updated: July 2026</sub>
 
 </div>
+
+
+---
+
+## 팀 핸드북
+
+모든 프로젝트에 공통으로 적용하는 안내서는 조직 저장소에서 관리합니다.
+
+- [처음 참여하는 팀원 안내](https://github.com/PaiChai-Dev26/.github/blob/main/docs/TEAM_ONBOARDING.md)
+- [GitHub 팀 개발 매뉴얼](https://github.com/PaiChai-Dev26/.github/blob/main/docs/GITHUB_MANUAL.md)
+- [R&BD·PRD·특허·공모전·박람회 업무 프로세스](https://github.com/PaiChai-Dev26/.github/blob/main/docs/RNBD_PROJECT_PROCESS.md)
+- [컴퓨터공학과 대학생활·진로 로드맵](https://github.com/PaiChai-Dev26/.github/blob/main/docs/CS_STUDENT_ROADMAP.md)
