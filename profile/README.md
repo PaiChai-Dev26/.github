@@ -281,3 +281,11 @@ Explore → Define → Plan → Build → Test → Present → Review
 - [GitHub 팀 개발 매뉴얼](https://github.com/PaiChai-Dev26/.github/blob/main/docs/GITHUB_MANUAL.md)
 - [R&BD·PRD·특허·공모전·박람회 업무 프로세스](https://github.com/PaiChai-Dev26/.github/blob/main/docs/RNBD_PROJECT_PROCESS.md)
 - [컴퓨터공학과 대학생활·진로 로드맵](https://github.com/PaiChai-Dev26/.github/blob/main/docs/CS_STUDENT_ROADMAP.md)
+
+
+### 실전 운영 가이드
+
+- [세 명이 다섯 분야를 맡는 법](https://github.com/PaiChai-Dev26/.github/blob/main/docs/TEAM_ROLES.md)
+- [AI와 함께 개발하는 팀 기준](https://github.com/PaiChai-Dev26/.github/blob/main/docs/AI_USAGE_GUIDE.md)
+- [보안·개인정보·라이선스 가이드](https://github.com/PaiChai-Dev26/.github/blob/main/docs/SECURITY_PRIVACY_LICENSE.md)
+- [복사해서 바로 쓰는 문서 템플릿](https://github.com/PaiChai-Dev26/.github/blob/main/docs/DOCUMENT_TEMPLATES.md)
