@@ -1,0 +1,40 @@
+name: 프로젝트 회고
+description: 프로젝트 종료 후 결과와 개선점을 기록합니다.
+title: "[Review] "
+labels: ["retrospective"]
+body:
+  - type: textarea
+    id: result
+    attributes:
+      label: 완료한 결과
+    validations:
+      required: true
+
+  - type: textarea
+    id: success
+    attributes:
+      label: 잘된 점
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 어려웠던 점과 실패한 시도
+    validations:
+      required: true
+
+  - type: textarea
+    id: scope
+    attributes:
+      label: 계획과 실제 범위의 차이
+
+  - type: textarea
+    id: next
+    attributes:
+      label: 다음 프로젝트에서 바꿀 점
+    validations:
+      required: true
+
+  - type: textarea
+    id: reusable
+    attributes:
+      label: 재사용할 코드·문서·작업 방식

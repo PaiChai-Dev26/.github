@@ -1,0 +1,51 @@
+name: 프로젝트 아이디어
+description: 공모전 또는 프로젝트 후보 아이디어를 기록합니다.
+title: "[Idea] "
+labels: ["idea"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: 해결하려는 문제
+      description: 한 문장으로 설명해 주세요.
+    validations:
+      required: true
+
+  - type: textarea
+    id: user
+    attributes:
+      label: 주요 사용자
+      description: 누가 이 문제를 겪고 있나요?
+    validations:
+      required: true
+
+  - type: textarea
+    id: minimum
+    attributes:
+      label: 가장 작은 결과물
+      description: 기간 안에 만들 수 있는 최소 기능은 무엇인가요?
+    validations:
+      required: true
+
+  - type: textarea
+    id: needs
+    attributes:
+      label: 필요한 데이터·기술·장비
+
+  - type: textarea
+    id: risk
+    attributes:
+      label: 예상되는 어려움
+
+  - type: dropdown
+    id: decision
+    attributes:
+      label: 현재 판단
+      options:
+        - 조사 필요
+        - 교수님 자문 필요
+        - 범위 축소 필요
+        - 프로젝트 후보
+        - 보류
+    validations:
+      required: true
