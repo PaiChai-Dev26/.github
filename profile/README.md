@@ -13,7 +13,7 @@
 
 <br>
 
-<a href="#now">Now</a> ·
+<a href="#now">Now</a> &nbsp;·&nbsp;
 <a href="#about">About</a> ·
 <a href="#project-cycle">Project Cycle</a> ·
 <a href="#members">Members</a> ·
