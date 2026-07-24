@@ -28,7 +28,8 @@
 ### 배재대학교 컴퓨터공학전공 학생 프로젝트팀
 
 <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text-base floating">
-      **문제를 발견하고 · 함께 만들고 · 끝까지 기록합니다**
+      문제를 발견하고 · 함께 만들고 · 끝까지 기록합니다
+</text>
   
 ![Started](https://img.shields.io/badge/Started-2026-0F766E?style=flat-square)
 ![Members](https://img.shields.io/badge/Members-5-334155?style=flat-square)
