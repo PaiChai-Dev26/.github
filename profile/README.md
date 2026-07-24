@@ -1,35 +1,11 @@
 <div align="center">
-
-<svg width="400" height="50" viewBox="0 0 400 50" xmlns="http://www.w3.org/2000/svg">
-
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@700&display=swap');
-  .text-base {
-        font-family: 'Noto Sans KR', sans-serif;
-        font-size: 16px;
-        font-weight: 700;
-        fill: #333; /* 글자 기본 색상 */
-      }
-  @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-5px); } /* 위로 5px 이동 */
-      }
-  .floating {
-        animation: float 3s ease-in-out infinite; /* 3초 간격, 무한 반복 */
-        transform-origin: center;
-        transform-box: fill-box;
-      }
-</style>
-</svg>
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2563EB&height=220&section=header&text=PaiChai%20Dev%2026&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%" alt="PaiChai Dev 26 Header" />
 <br>
 
 ### 배재대학교 컴퓨터공학전공 학생 프로젝트팀
 
-<text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" class="text-base floating">
-      문제를 발견하고 · 함께 만들고 · 끝까지 기록합니다
-</text>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=425&height=30&lines=+%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B3%A0+%C2%B7+%ED%95%A8%EA%BB%98+%EB%A7%8C%EB%93%A4%EA%B3%A0+%C2%B7+%EB%81%9D%EA%B9%8C%EC%A7%80+%EA%B8%B0%EB%A1%9D%ED%95%A9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)<br>
   
 ![Started](https://img.shields.io/badge/Started-2026-0F766E?style=flat-square)
 ![Members](https://img.shields.io/badge/Members-5-334155?style=flat-square)
