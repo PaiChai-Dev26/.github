@@ -25,7 +25,7 @@
 
 ---
 
-## :triangular_flag_on_post: Now
+## Now
 
 현재 1학년 3명과 3학년 2명이 함께  
 첫 번째 공모전 프로젝트의 주제와 구현 범위를 검토하고 있습니다.
@@ -51,7 +51,7 @@
 
 ---
 
-## :book: About
+## About
 
 **PaiChai Dev 26**은 공모전과 팀 프로젝트를 통해  
 아이디어가 실제 결과물로 만들어지는 전체 과정을 경험하기 위해 시작한 학생팀입니다.
@@ -127,7 +127,7 @@ Explore → Define → Validate → Plan → Build → Test → Present → Revi
 
 ---
 
-## :family: Members
+## Members
 
 | Member | Year | Current Focus |
 |---|---:|---|
