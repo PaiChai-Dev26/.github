@@ -4,7 +4,7 @@
 
 ### 배재대학교 컴퓨터공학전공 학생 프로젝트팀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&width=425&height=40&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B3%A0+%C2%B7+%ED%95%A8%EA%BB%98+%EB%A7%8C%EB%93%A4%EA%B3%A0+%C2%B7+%EB%81%9D%EA%B9%8C%EC%A7%80+%EA%B8%B0%EB%A1%9D%ED%95%A9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=425&height=30&lines=%EB%AC%B8%EC%A0%9C%EB%A5%BC+%EB%B0%9C%EA%B2%AC%ED%95%98%EA%B3%A0+%C2%B7+%ED%95%A8%EA%BB%98+%EB%A7%8C%EB%93%A4%EA%B3%A0+%C2%B7+%EB%81%9D%EA%B9%8C%EC%A7%80+%EA%B8%B0%EB%A1%9D%ED%95%A9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 
 ![Started](https://img.shields.io/badge/Started-2026-0F766E?style=flat-square)
 ![Members](https://img.shields.io/badge/Members-5-334155?style=flat-square)
