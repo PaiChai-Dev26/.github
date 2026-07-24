@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:2563EB&height=220&section=header&text=PaiChai%20Dev%2026&fontSize=50&fontColor=ffffff&fontAlignY=40" width="100%" alt="PaiChai Dev 26 Header" />
-<br> <br>
-# PaiChai Dev 26
+<br>
 
 ### 배재대학교 컴퓨터공학전공 학생 프로젝트팀
 
