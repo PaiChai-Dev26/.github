@@ -134,7 +134,7 @@ Explore → Define → Validate → Plan → Build → Test → Present → Revi
 | [@leexxx404](https://github.com/leexxx404) | 1학년 | 프로그램 로직, 화면과 기능 구현 경험 확장 |
 | [@seojin103](https://github.com/seojin103) | 1학년 | Python 기반 데이터 처리와 소프트웨어 구현 경험 확장 |
 | [@heunc2](https://github.com/heunc2) | 3학년 | 프로젝트 주제 확정 후 기술 검토 및 기능 구현 역할 협의 |
-| [@k0112mk](https://github.com/k0112mk) | 3학년 | 프로젝트 주제 확정 후 기술 검토 및 기능 구현 역할 협의 |
+| [@k0112mk](https://github.com/k0112mk) | 3학년 |C, Python user. 프로젝트 주제 확정 후 기술 검토 및 기능 구현 역할 협의 |
 
 현재 내용은 고정된 직책이 아니라  
 각 구성원의 현재 참여 방향과 프로젝트 준비 단계입니다.
