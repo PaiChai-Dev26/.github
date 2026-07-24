@@ -126,7 +126,7 @@ Explore → Define → Validate → Plan → Build → Test → Present → Revi
 
 ---
 
-## Members
+## :family: Members
 
 | Member | Year | Current Focus |
 |---|---:|---|
