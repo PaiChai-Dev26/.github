@@ -143,7 +143,7 @@ Explore → Define → Validate → Plan → Build → Test → Present → Revi
 | [@gxmzung](https://github.com/gxmzung) | 1학년 | 프로젝트 운영, 범위·일정 관리, 구현·문서·발표와 결과물 통합 |
 | [@leexxx404](https://github.com/leexxx404) | 1학년 | 프로그램 로직, 화면과 기능 구현 경험 확장 |
 | [@seojin103](https://github.com/seojin103) | 1학년 | Python 기반 데이터 처리와 소프트웨어 구현 경험 확장 |
-| [@heunc2](https://github.com/heunc2) | 3학년 | 프로젝트 주제 확정 후 기술 검토 및 기능 구현 역할 협의 |
+| [@heunc2](https://github.com/heunc2) | 3학년 | C, C++, Java, Python, HTML, CSS, JavaScript, 오라클 DB 관리, ROS 기반 로봇 제어 및 라즈베리파이4 임베디드 디바이스 제어, Linux(Ubuntu, Rocky Linux) 운영체제 환경 구축 및 시스템 관리 |
 | [@k0112mk](https://github.com/k0112mk) | 3학년 | AI 모델 구축 및 객체 탐지/컴퓨터 비전 기술,C++,Python,HTML,CSS,JavaScript,시스템 프로그래밍,백엔드 개발 및 웹 화면 구현,백엔드 API 서버 구축 및 데이터베이스 관리,로봇/드론 제어 시스템 및 임베디드 디바이스 제어,백엔드/로보틱스 운영체제,및 보안 레버리징 환경 |
 
 현재 내용은 고정된 직책이 아니라  
