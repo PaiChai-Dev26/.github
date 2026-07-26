@@ -37,7 +37,7 @@
 - 소프트웨어·AI·하드웨어 융합 가능성 검토
 - 팀원별 기술 경험, 관심 분야와 투입 가능 시간 확인
 - 5명이 기능 단위로 협업할 수 있는 최소 기능 선정
-- 김창수 교수님께 지도교수 및 기술 자문 요청 준비
+- 교수님께 지도교수 및 기술 자문 요청 준비
 - 프로젝트에 필요한 장비·부품과 자재 확보 경로 확인
 - GitHub 기반 역할·Issue·Pull Request 운영 방식 정리
 
@@ -274,7 +274,7 @@ AI 도구를 코드 작성, 문서 초안, 아이디어 정리에 사용할 수 
 | **Competition Research** | 제13회 전국 ICT융합 AI 공모전 규정과 제출 조건 확인 | `In Progress` |
 | **Topic Exploration** | 기존·신규 아이디어와 ICT·AI·하드웨어 적용 가능성 검토 | `In Progress` |
 | **Technical Review** | 데이터, 기술 난도, 장비와 일정 위험 검토 | `Preparing` |
-| **Faculty Mentoring** | 김창수 교수님께 지도교수 및 기술 자문 요청 준비 | `Preparing` |
+| **Faculty Mentoring** | 교수님께 지도교수 및 기술 자문 요청 준비 | `Preparing` |
 | **Resource Review** | 장비·부품·자재비 확보 가능성 확인 | `Preparing` |
 | **First Project** | 프로젝트 주제·MVP·역할 확정 및 저장소 생성 | `Planned` |
 | **First Prototype** | 최소 기능 구현과 통합 테스트 | `Planned` |
@@ -382,7 +382,7 @@ AI 도구를 코드 작성, 문서 초안, 아이디어 정리에 사용할 수 
 - [ ] 신규 팀원의 GitHub Organization 참여 완료
 - [ ] 제13회 전국 ICT융합 AI 공모전 참가 여부 확정
 - [ ] 팀 회의를 통해 첫 프로젝트 아이디어 선정
-- [ ] 김창수 교수님께 지도교수 및 기술 자문 요청
+- [ ] 교수님께 지도교수 및 기술 자문 요청
 - [ ] 장비·부품·자재비 확보 가능성 확인
 - [ ] 팀원별 담당 기능과 완료 기준 확정
 - [ ] 프로젝트 저장소와 Issue 운영 시작
