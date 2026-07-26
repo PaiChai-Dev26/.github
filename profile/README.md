@@ -138,10 +138,10 @@ Explore → Define → Validate → Plan → Build → Test → Present → Revi
 
 ## Members
 
-| Member | Year | Current Focus |
+| Member | Grade | Current Focus |
 |---|---:|---|
 | [@gxmzung](https://github.com/gxmzung) | 1학년 | Technical PM 및 시스템 통합, 요구사항·기능 구조 설계, React/TypeScript 기반 관제 화면 개발, FastAPI·REST API 연동, Python/C 데이터 처리, GIS·텔레메트리 시각화, ROS2·PX4 프로젝트 수행, Linux·Docker 개발환경 활용, 기술문서·발표·일정 관리 |
-| [@leexxx404](https://github.com/leexxx404) | 1학년 | 프로그램 로직, 화면 및 기능 구현 역량 확장 |
+| [@leexxx404](https://github.com/leexxx404) | 1학년 | C기초 역량, 프로그램 로직, 화면 및 기능 구현 역량 확장 |
 | [@seojin103](https://github.com/seojin103) | 1학년 | Python 기반 데이터 처리, API 및 소프트웨어 구현 역량 확장 |
 | [@heunc2](https://github.com/heunc2) | 3학년 | C/C++·Java·Python 기반 소프트웨어 개발, Oracle DB, ROS 로봇 제어, Raspberry Pi 임베디드 시스템, Linux 서버 환경 구축 및 관리 |
 | [@k0112mk](https://github.com/k0112mk) | 3학년 | AI·컴퓨터 비전 모델 개발, Python/C++ 기반 백엔드 및 API 서버, 데이터베이스, 웹 인터페이스, 로봇·드론·임베디드 시스템, 운영체제 및 보안 |
